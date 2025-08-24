@@ -1,4 +1,3 @@
-# React + Vite
 # TodoList App
 
 A simple and responsive **Todo List application** built using **React**, **Vite**, **Material UI**, and **Tailwind CSS**.  
