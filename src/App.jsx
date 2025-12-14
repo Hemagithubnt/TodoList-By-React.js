@@ -1,18 +1,13 @@
 
-import Todolist from "./Component/Todolist/todo"
-
-
-
+import AddEmployee from "./Component/Employee Table/addEmployee";
 
 function App() {
-
-
   return (
     <>
-    <Todolist/>
-    
+    <AddEmployee/>
     </>
   )
 }
 
 export default App
+
